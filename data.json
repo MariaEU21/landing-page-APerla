@@ -1,0 +1,109 @@
+{
+  "productos": [
+    {
+      "nombre": "Pan de campo",
+      "imagen": "img/pan_de_campo.jpg",
+      "descripcion": "Nuestro pan es horneado diariamente en casa para garantizar su frescura. Su corteza crujiente y su interior suave y aireado hacen que sea el complemento perfecto para cualquier comida.",
+      "categoria": "Panadería",
+      "subcategoria": "Salados"
+    },
+    {
+      "nombre": "Medialunas",
+      "imagen": "img/medialunas.jpg",
+      "descripcion": "Nuestras medialunas dulces son irresistibles, con una textura suave y esponjosa por dentro y una corteza ligeramente crujiente por fuera. Glaseadas con un toque de azúcar, estas delicias son perfectas para disfrutar con un café a cualquier hora del día.",
+      "categoria": "Panadería",
+      "subcategoria": "Dulces"
+    },
+    {
+      "nombre": "Churros",
+      "imagen": "img/Churros.jpg",
+      "descripcion": "Churros crujientes y dorados, espolvoreados con un toque de azúcar. Ideales para un dulce desayuno o una merienda con una taza de chocolate caliente.",
+      "categoria": "Panadería",
+      "subcategoria": "Dulces"
+    },
+    {
+      "nombre": "Selva Negra",
+      "imagen": "img/selva-negra.jpg",
+      "descripcion": "Nuestra torta Selva Negra es un verdadero deleite. Compuesta por capas de esponjoso bizcocho de chocolate, cerezas en almíbar y nata montada, todo cubierto con virutas de chocolate negro. Cada bocado te transportará a las mágicas montañas de la Selva Negra alemana.",
+      "categoria": "Panadería",
+      "subcategoria": "Pasteles"
+    },
+    {
+      "nombre": "Cheesecake ",
+      "imagen": "img/chessecake.jpg",
+      "descripcion": "Nuestro Cheesecake es suave, cremoso y absolutamente delicioso. Con una base crujiente de galleta y un relleno de queso crema suave y rico, terminado con un dulce y ligeramente ácido topping de frutas. Este clásico postre es siempre un éxito.",
+      "categoria": "Panadería",
+      "subcategoria": "Pasteles"
+    },
+    {
+      "nombre": "Chaja",
+      "imagen": "img/chaja.jpg",
+      "descripcion": "Nuestra Torta Chaja es una celebración de sabores y texturas. Capas de bizcocho esponjoso, duraznos frescos, merengue crujiente y deliciosa crema, hacen de este postre uruguayo un manjar inolvidable. Es el equilibrio perfecto entre lo dulce y lo fresco.",
+      "categoria": "Panadería",
+      "subcategoria": "Pasteles"
+    },
+    {
+      "nombre": "Hamburguesa",
+      "imagen": "img/hamburguesa.jpg",
+      "descripcion": "Nuestras hamburguesas son jugosas y sabrosas, hechas con carne de res de primera calidad, servidas en un pan suave y esponjoso con lechuga fresca, tomate jugoso y nuestra salsa especial.",
+      "categoria": "Rotisería",
+      "subcategoria": "Hamburguesas"
+    },
+    {
+      "nombre": "Pizza",
+      "imagen": "img/pizza.jpg",
+      "descripcion": "Nuestras pizzas están cargadas de sabor, con una base de masa fina y crujiente, una generosa capa de queso derretido y tus ingredientes favoritos frescos y de calidad.",
+      "categoria": "Rotisería",
+      "subcategoria": "Pizza"
+    },
+    {
+      "nombre": "Papas Fritas",
+      "imagen": "img/papas.jpg",
+      "descripcion": "Disfruta de nuestras papas fritas, perfectamente doradas y crujientes por fuera, tiernas y sabrosas por dentro. Son el acompañamiento perfecto para cualquier plato.",
+      "categoria": "Rotisería",
+      "subcategoria": "Papas Fritas"
+    },
+    {
+      "nombre": "Empanadas de Carne",
+      "imagen": "img/empanadasc.jpg",
+      "descripcion": "Nuestras empanadas de carne son una delicia difícil de resistir. Rellenas con un guiso de carne picada, cebolla, pimiento y huevo, con un toque de aceitunas y especias. La masa dorada y crujiente sella todos los sabores en su interior, creando un bocado perfecto.",
+      "categoria": "Rotisería",
+      "subcategoria": "Empanadas"
+    },
+    {
+      "nombre": "Sandwichs de Migas",
+      "imagen": "img/miga.jpg",
+      "descripcion": "Nuestros sándwiches de migas son la merienda perfecta para cualquier ocasión. Hechos con pan de miga suave y esponjoso, rellenos con una variedad de ingredientes frescos y sabrosos. Desde el clásico de jamón y queso hasta nuestras opciones vegetarianas, hay un sándwich de migas para todos los gustos.",
+      "categoria": "Rotisería",
+      "subcategoria": "Sandwichs"
+    },
+    {
+      "nombre": "Lomitos",
+      "imagen": "img/lomitos.jpg",
+      "descripcion": "Nuestro sándwich de lomo es un clásico que nunca falla. Hecho con lomo de ternera a la plancha, cortado fino y jugoso, servido en un pan crujiente con lechuga fresca, tomate maduro y nuestras salsas caseras. Un bocado que satisface hasta el apetito más grande.",
+      "categoria": "Rotisería",
+      "subcategoria":"Lomitos"
+    },
+    {
+      "nombre": "Sandwich de Milanesa",
+      "imagen": "img/milanesa.jpg",
+      "descripcion": "El sándwich de milanesa es una delicia argentina que hemos perfeccionado. Una milanesa crujiente y bien condimentada, acompañada de lechuga, tomate y mayonesa, todo en un pan fresco y esponjoso. Perfecto para un almuerzo rápido pero sustancioso.",
+      "categoria": "Rotisería",
+      "subcategoria": "Milanesas"
+  },
+  {
+      "nombre": "Patynesa",
+      "imagen": "img/patynesas.jpg",
+      "descripcion": "Nuestro sándwich de patynesa combina lo mejor de dos mundos. Una milanesa de pollo crujiente y jugosa con una generosa porción de patatas fritas, aderezado con nuestras salsas caseras, todo envuelto en un pan fresco. Una combinación ganadora que te dejará pidiendo más.",
+      "categoria": "Rotisería",
+      "subcategoria": "Patynesas"
+  },
+  {
+    "nombre": "Empanadas de Jamón y Queso",
+    "imagen": "img/empanadasjyq.jpg",
+    "descripcion": "Nuestras empanadas de jamón y queso son un auténtico placer. El relleno consiste en generosas porciones de jamón suave y jugoso combinadas con queso derretido, creando una mezcla perfecta de sabores. Todo esto envuelto en una masa dorada y crujiente, horneada a la perfección. Son una opción ideal para un aperitivo rápido o una comida ligera, siempre deliciosas y satisfactorias.",
+    "categoria": "Rotisería",
+    "subcategoria": "Empanadas"
+}
+]
+}
