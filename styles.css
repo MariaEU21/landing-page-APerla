@@ -7,8 +7,9 @@
 }
 
 body {
-    background-image: url(img/pizarronestampado.png);
-    background-size: cover;
+    background-image: url('img/pizarronestampado.png');
+    background-repeat: repeat; /* o background-repeat: no-repeat; */
+    background-position: center; /* Opcional, si no quieres repetir la imagen */
     color: #ffffff; /* Texto blanco como tiza */
 }
 
